@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <stdlib.h>
 //testando melhor
-//Jhonatan aqui carai...
+
 int main(){
   using namespace std;
 
