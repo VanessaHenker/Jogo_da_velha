@@ -11,6 +11,7 @@ int main(){
   int i, j, linha, coluna, jogador = 1, ganhou = 0, jogadas, opcao, numero_teste = 0;
   i = 0;
   j = 0;
+  // teste
   do{
     jogador = 1;
     ganhou = 0;
